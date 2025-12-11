@@ -1,0 +1,15 @@
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\DATA_VIEW_EIM.exe.config
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\DATA_VIEW_EIM.exe
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\DATA_VIEW_EIM.pdb
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\SEMCNS.DATA_VIEW_EIM.MainForm.resources
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.Properties.Resources.resources
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.csproj.GenerateResource.cache
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.csproj.CoreCompileInputs.cache
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.csproj.CopyComplete
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.exe
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.pdb
+D:\Project\DATA_VIEW_EIM\DATA_VIEW_EIM\obj\Debug\DATA_VIEW_EIM.csprojAssemblyReference.cache
