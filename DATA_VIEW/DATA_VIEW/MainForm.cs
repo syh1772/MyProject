@@ -15,6 +15,7 @@ namespace SEMCNS.DATA_VIEW
 {
     public partial class MainForm : Form
     {
+        // 소스트리 테스트
         public class Via
         {
             public string Name { get; set; }
