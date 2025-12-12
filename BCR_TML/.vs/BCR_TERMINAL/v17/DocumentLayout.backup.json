@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\BCR_TML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|d:\\project\\bcr_tml\\bcr_tml\\data\\inifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\data\\inifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|d:\\project\\bcr_tml\\bcr_tml\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\data\\inifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\data\\inifilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|d:\\project\\bcr_tml\\bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\terminaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML\\BCR_TML.csproj|solutionrelative:bcr_tml\\terminaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\uc\\ucmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\uc\\uccontextdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\uc\\uccontextdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\uc\\uccontextdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\uc\\uccontextdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|D:\\Project\\BCR_TML\\bcr_tml\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3165C3-18AD-43E2-A94C-4E9A040DEF75}|BCR_TML.csproj|solutionrelative:bcr_tml\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\App.config",
+              "RelativeDocumentMoniker": "BCR_TML\\App.config",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\App.config",
+              "RelativeToolTip": "BCR_TML\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-09T04:57:52.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IniFileManager.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\Data\\IniFileManager.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\Data\\IniFileManager.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\Data\\IniFileManager.cs",
+              "RelativeToolTip": "BCR_TML\\Data\\IniFileManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T04:42:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucMessage.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\UC\\ucMessage.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs",
+              "RelativeToolTip": "BCR_TML\\UI\\UC\\ucMessage.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T03:15:32.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucMessage.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\UC\\ucMessage.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs",
+              "RelativeToolTip": "BCR_TML\\UI\\UC\\ucMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:51.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\MainForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BCR_TML\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:26:47.483Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\MainForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeToolTip": "BCR_TML\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4v0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:26:47.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\App.config",
+              "RelativeDocumentMoniker": "BCR_TML\\App.config",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\App.config",
+              "RelativeToolTip": "BCR_TML\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-09T01:22:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\MainForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeToolTip": "BCR_TML\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:22:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucContextDisplay.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucContextDisplay.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BCR_TML\\UI\\UC\\ucContextDisplay.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucContextDisplay.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "RelativeToolTip": "BCR_TML\\UI\\UC\\ucContextDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IniFileManager.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\Data\\IniFileManager.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\Data\\IniFileManager.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\Data\\IniFileManager.cs",
+              "RelativeToolTip": "BCR_TML\\Data\\IniFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:22:49.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TerminalDevice.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\TerminalDevice.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\TerminalDevice.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\TerminalDevice.cs",
+              "RelativeToolTip": "BCR_TML\\TerminalDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:27:42.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\Program.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\Program.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\Program.cs",
+              "RelativeToolTip": "BCR_TML\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:22:41.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\MainForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BCR_TML\\MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:22:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucMessage.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\UC\\ucMessage.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\UC\\ucMessage.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BCR_TML\\UI\\UC\\ucMessage.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:51.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\LoginForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\LoginForm.cs",
+              "RelativeToolTip": "BCR_TML\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\UI\\LoginForm.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\UI\\LoginForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BCR_TML\\UI\\LoginForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:23:44.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "BCR_TML\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Project\\BCR_TML\\BCR_TML\\MainForm.Designer.cs",
+              "RelativeToolTip": "BCR_TML\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T01:22:35.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Project\BCR_TML\BCR_TML\bin\Debug\MANUAL_EIM.exe.config
+D:\Project\BCR_TML\BCR_TML\bin\Debug\MANUAL_EIM.exe
+D:\Project\BCR_TML\BCR_TML\bin\Debug\MANUAL_EIM.pdb
+D:\Project\BCR_TML\BCR_TML\obj\Debug\BCR_TML.csproj.AssemblyReference.cache
+D:\Project\BCR_TML\BCR_TML\obj\Debug\MANUAL_EIM.exe.config
+D:\Project\BCR_TML\BCR_TML\obj\Debug\SEMCNS.BCR_TML.MainForm.resources
+D:\Project\BCR_TML\BCR_TML\obj\Debug\MANUAL_EIM.Properties.Resources.resources
+D:\Project\BCR_TML\BCR_TML\obj\Debug\SEMCNS.BCR_TML.LoginForm.resources
+D:\Project\BCR_TML\BCR_TML\obj\Debug\SEMCNS.BCR_TML.ucContextDisplay.resources
+D:\Project\BCR_TML\BCR_TML\obj\Debug\SEMCNS.BCR_TML.ucMessage.resources
+D:\Project\BCR_TML\BCR_TML\obj\Debug\BCR_TML.csproj.GenerateResource.cache
+D:\Project\BCR_TML\BCR_TML\obj\Debug\BCR_TML.csproj.CoreCompileInputs.cache
+D:\Project\BCR_TML\BCR_TML\obj\Debug\MANUAL_EIM.exe
+D:\Project\BCR_TML\BCR_TML\obj\Debug\MANUAL_EIM.pdb

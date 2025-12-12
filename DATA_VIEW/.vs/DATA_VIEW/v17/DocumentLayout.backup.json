@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\DATA_VIEW\\",
+  "WorkspaceRootPath": "D:\\git\\MyProject\\DATA_VIEW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|D:\\Project\\DATA_VIEW\\data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|d:\\git\\myproject\\data_view\\data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|solutionrelative:data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|D:\\Project\\DATA_VIEW\\data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|D:\\git\\MyProject\\DATA_VIEW\\data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|solutionrelative:data_view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|d:\\git\\myproject\\data_view\\data_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06536834-29C6-41BC-968F-9839A696275D}|DATA_VIEW\\DATA_VIEW.csproj|solutionrelative:data_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\Program.cs",
+              "RelativeDocumentMoniker": "DATA_VIEW\\Program.cs",
+              "ToolTip": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\Program.cs",
+              "RelativeToolTip": "DATA_VIEW\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:19:24.459Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Project\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
+              "DocumentMoniker": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
               "RelativeDocumentMoniker": "DATA_VIEW\\MainForm.cs",
-              "ToolTip": "D:\\Project\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
+              "ToolTip": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
               "RelativeToolTip": "DATA_VIEW\\MainForm.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAMwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwGsAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T07:03:57.562Z",
               "EditorCaption": ""
@@ -37,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\Project\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
+              "DocumentMoniker": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\MainForm.cs",
               "RelativeDocumentMoniker": "DATA_VIEW\\MainForm.cs",
-              "ToolTip": "D:\\Project\\DATA_VIEW\\DATA_VIEW\\MainForm.cs [\uB514\uC790\uC778]",
+              "ToolTip": "D:\\git\\MyProject\\DATA_VIEW\\DATA_VIEW\\MainForm.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "DATA_VIEW\\MainForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T07:02:01.915Z",

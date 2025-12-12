@@ -1,0 +1,13 @@
+D:\Project\MANUAL_EIM\MANUAL_EIM\bin\Debug\MANUAL_EIM.exe.config
+D:\Project\MANUAL_EIM\MANUAL_EIM\bin\Debug\MANUAL_EIM.exe
+D:\Project\MANUAL_EIM\MANUAL_EIM\bin\Debug\MANUAL_EIM.pdb
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_HMI.csproj.AssemblyReference.cache
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\SEMCNS.MANUAL_HMI.MainForm.resources
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_EIM.Properties.Resources.resources
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\SEMCNS.MANUAL_HMI.LoginForm.resources
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\SEMCNS.MANUAL_HMI.ucContextDisplay.resources
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\SEMCNS.MANUAL_HMI.ucMessage.resources
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_HMI.csproj.GenerateResource.cache
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_HMI.csproj.CoreCompileInputs.cache
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_EIM.exe
+D:\Project\MANUAL_EIM\MANUAL_EIM\obj\Debug\MANUAL_EIM.pdb
